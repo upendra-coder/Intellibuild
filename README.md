@@ -52,7 +52,7 @@ Follow these steps to run the project locally.
 1.  **Clone the repository**
     ```bash
     git clone [https://github.com/YOUR_USERNAME/ai-website-builder.git](https://github.com/YOUR_USERNAME/ai-website-builder.git)
-    cd ai-website-builder
+    cd Intellibuild
     ```
 
 2.  **Install dependencies**
