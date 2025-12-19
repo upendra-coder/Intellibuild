@@ -1,4 +1,4 @@
-# 🚀 AI Website Builder
+# 🚀 Intellibuild 
 
 A powerful **No-Code / Low-Code** platform that allows users to generate, edit, and publish websites using Artificial Intelligence. Built with React, Google Gemini, and Netlify.
 
